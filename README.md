@@ -1,8 +1,25 @@
+<p align="center"> <img alt="Open Seas 14" width="475" height="135" src="https://raw.githubusercontent.com/GPerMer/Open-Seas-14-Assets/main/Logo-First-Draft.PNG" /></p>
+
+**Open Seas 14** is taking the game of Space Station 14 and turning it into a game about pirates and sailing the seas.
+
+This is the primary repo for Open Seas 14, please see the Space Station 14 section below for more information related to forking and content.
+
+## Open Seas Links
+
+[Discord](To Be Determined)
+
+## Open Seas Contributing
+
+> [!NOTE]
+> Due to how early on in the project Open Seas is, we will not be accepting contributions at this time until it is more organized.
+
+##
+
 <p align="center"> <img alt="Space Station 14" width="880" height="300" src="https://raw.githubusercontent.com/space-wizards/asset-dump/de329a7898bb716b9d5ba9a0cd07f38e61f1ed05/github-logo.svg" /></p>
 
 Space Station 14 is a remake of SS13 that runs on [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), our homegrown engine written in C#.
 
-This is the primary repo for Space Station 14. To prevent people forking RobustToolbox, a "content" pack is loaded by the client and server. This content pack contains everything needed to play the game on one specific server.
+[This link](https://github.com/space-wizards/space-station-14) goes to the primary repo for Space Station 14. To prevent people forking RobustToolbox, a "content" pack is loaded by the client and server. This content pack contains everything needed to play the game on one specific server.
 
 If you want to host or create content for SS14, this is the repo you need. It contains both RobustToolbox and the content pack for development of new content packs.
 
@@ -16,14 +33,14 @@ Our [docs site](https://docs.spacestation14.io/) has documentation on SS14s cont
 
 ## Contributing
 
-We are happy to accept contributions from anybody. Get in Discord if you want to help. We've got a [list of issues](https://github.com/space-wizards/space-station-14-content/issues) that need to be done and anybody can pick them up. Don't be afraid to ask for help either!  
+We are happy to accept contributions from anybody. Get in Discord if you want to help. We've got a [list of issues](https://github.com/space-wizards/space-station-14-content/issues) that need to be done and anybody can pick them up. Don't be afraid to ask for help either!
 Just make sure your changes and pull requests are in accordance with the [contribution guidelines](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html).
 
 We are not currently accepting translations of the game on our main repository. If you would like to translate the game into another language consider creating a fork or contributing to a fork.
 
 ## Building
 
-1. Clone this repo.
+1. Clone [this](https://github.com/space-wizards/space-station-14) repo.
 2. Run `RUN_THIS.py` to init submodules and download the engine.
 3. Compile the solution.
 
