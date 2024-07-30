@@ -1,18 +1,4 @@
 ﻿Entries:
-- author: FungiFellow
-  changes:
-  - message: Grilles now take Structural Damage
-    type: Tweak
-  id: 6506
-  time: '2024-05-01T22:23:42.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/27596
-- author: lzk228
-  changes:
-  - message: Immovable rod announce now happens at the end of event.
-    type: Tweak
-  id: 6507
-  time: '2024-05-01T22:26:22.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/27587
 - author: metalgearsloth
   changes:
   - message: Fix server performance dropping significantly.
@@ -3778,3 +3764,25 @@
   id: 7005
   time: '2024-07-30T01:49:05.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/30298
+- author: TheKittehJesus
+  changes:
+  - message: The recipe for chow mein, egg-fried rice, and both brownies now use liquid
+      egg instead of a whole egg.
+    type: Tweak
+  - message: Cake batter now also requires 5u of milk
+    type: Tweak
+  id: 7006
+  time: '2024-07-30T02:14:11.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/30262
+- author: Plykiya
+  changes:
+  - message: Wearing something that covers your head will prevent your hair from being
+      cut.
+    type: Add
+  - message: You now see a popup when your hair is being altered.
+    type: Add
+  - message: The doafter for altering other people's hair now takes seven seconds.
+    type: Tweak
+  id: 7007
+  time: '2024-07-30T02:17:28.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/30366
