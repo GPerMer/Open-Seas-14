@@ -1,27 +1,4 @@
 ﻿Entries:
-- author: DamnFeds
-  changes:
-  - message: honkbot now uses a happy honk meal instead of box of hugs and clown's
-      rubber stamp. Honk!
-    type: Tweak
-  id: 6503
-  time: '2024-05-01T03:27:21.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/27535
-- author: Plykiya
-  changes:
-  - message: Inserting telecrystals no longer announces to everyone around you that
-      you inserted it.
-    type: Tweak
-  id: 6504
-  time: '2024-05-01T15:17:47.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/27585
-- author: Dezzzix
-  changes:
-  - message: Goldschlager empty bottle renamed to Gildlager empty bottle
-    type: Tweak
-  id: 6505
-  time: '2024-05-01T15:24:05.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/27581
 - author: FungiFellow
   changes:
   - message: Grilles now take Structural Damage
@@ -3780,3 +3757,24 @@
   id: 7002
   time: '2024-07-29T15:16:54.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/30450
+- author: Ian321
+  changes:
+  - message: The Courser now comes with a defibrillator.
+    type: Tweak
+  id: 7003
+  time: '2024-07-30T01:05:27.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/30471
+- author: slarticodefast
+  changes:
+  - message: Fixed puppy Ian not counting as a thief steal target.
+    type: Fix
+  id: 7004
+  time: '2024-07-30T01:22:17.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/30474
+- author: themias
+  changes:
+  - message: Added envelopes to the PTech and bureaucracy crate
+    type: Add
+  id: 7005
+  time: '2024-07-30T01:49:05.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/30298
